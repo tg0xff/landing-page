@@ -98,13 +98,10 @@ a {
   padding: 0.4rem 1.666666rem;
 }
 
-.hero-image {
+.hero > div:nth-child(2) {
   color: var(--colour-1);
   background-color: #6D747D;
   flex-grow: 1;
-}
-
-.hero-image {
   display: flex;
   justify-content: center;
   align-items: center;
