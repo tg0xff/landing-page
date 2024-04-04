@@ -64,6 +64,8 @@ a {
   gap: 5%;
   background-color: var(--colour-3);
   font-size: var(--font-size-4);
+  padding-top: 7rem;
+  padding-bottom: 7rem;
 }
 
 .hero-content {
