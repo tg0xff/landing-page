@@ -68,7 +68,7 @@ a {
   padding-bottom: 7rem;
 }
 
-.hero-content {
+.hero > div {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
