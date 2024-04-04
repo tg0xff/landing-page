@@ -15,7 +15,10 @@
   --colour-4: #3882F6;
 }
 
-body {
+body,
+ul,
+h1,
+p {
   margin: 0;
 }
 
@@ -26,7 +29,6 @@ body > * {
 ul {
   list-style-type: none;
   padding: 0;
-  margin: 0;
 }
 
 a {
