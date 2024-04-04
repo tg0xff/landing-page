@@ -68,6 +68,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  flex-basis: 50%;
 }
 
 .hero-header {
@@ -86,4 +87,5 @@ a {
 .hero-image {
   color: var(--colour-1);
   background-color: #889;
+  flex-grow: 1;
 }
