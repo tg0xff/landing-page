@@ -26,3 +26,9 @@ a {
   text-decoration: none;
   color: #333;
 }
+
+.header-root {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
