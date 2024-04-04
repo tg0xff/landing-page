@@ -32,3 +32,8 @@ a {
   justify-content: space-between;
   align-items: baseline;
 }
+
+.header-links ul {
+  display: flex;
+  gap: 1rem;
+}
