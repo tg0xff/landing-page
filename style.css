@@ -135,4 +135,5 @@ a {
   height: 9rem;
   border: 0.25rem solid var(--colour-4);
   border-radius: 0.75rem;
+  margin-bottom: 0.33333333rem;
 }
