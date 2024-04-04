@@ -14,6 +14,10 @@
   --colour-4: #3882F6;
 }
 
+body {
+  margin: 0;
+}
+
 body > * {
   padding: 0 10vw;
 }
