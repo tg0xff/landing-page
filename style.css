@@ -56,3 +56,9 @@ a {
   font-size: var(--font-size-3);
   font-weight: 800;
 }
+
+.hero-root {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
