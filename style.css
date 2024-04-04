@@ -82,6 +82,7 @@ a {
 
 .hero p {
   color: var(--colour-2);
+  margin-bottom: 0.5rem;
 }
 
 .hero button {
