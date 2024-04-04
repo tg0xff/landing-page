@@ -99,3 +99,9 @@ a {
   background-color: #889;
   flex-grow: 1;
 }
+
+.hero-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
