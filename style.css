@@ -113,3 +113,9 @@ a {
   font-weight: 900;
   text-align: center;
 }
+
+.squares-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
