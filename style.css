@@ -37,6 +37,8 @@ a {
   justify-content: space-between;
   align-items: center;
   background-color: var(--colour-3);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .header-links ul {
