@@ -12,3 +12,7 @@
   --colour-3: #1F2937;
   --colour-4: #3882F6;
 }
+
+body > * {
+  padding: 0 10vw;
+}
