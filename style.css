@@ -55,7 +55,7 @@ a {
 .logo {
   color: var(--colour-1);
   font-size: var(--font-size-3);
-  font-weight: 800;
+  font-weight: 1000;
 }
 
 .hero-root {
@@ -79,7 +79,7 @@ a {
 .hero-header {
   color: var(--colour-1);
   font-size: var(--font-size-1);
-  font-weight: 900;
+  font-weight: 800;
 }
 
 .hero-body {
