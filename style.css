@@ -107,6 +107,7 @@ a {
 .squares h1 {
   font-size: var(--font-size-2);
   font-weight: 900;
+  color: var(--colour-3);
   text-align: center;
   margin: 3rem 0;
 }
