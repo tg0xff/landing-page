@@ -124,3 +124,10 @@ a {
 .squares > div > div {
   flex-basis: 9rem;
 }
+
+.square {
+  width: 9rem;
+  height: 9rem;
+  border: 0.25rem solid var(--colour-4);
+  border-radius: 0.75rem;
+}
