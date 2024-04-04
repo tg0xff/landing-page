@@ -61,4 +61,23 @@ a {
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
+  background-color: var(--colour-3);
+}
+
+.hero-header {
+  color: var(--colour-1);
+}
+
+.hero-body {
+  color: var(--colour-2);
+}
+
+.hero-root button {
+  color: var(--colour-1);
+  background-color: var(--colour-4);
+}
+
+.hero-image {
+  color: var(--colour-1);
+  background-color: #889;
 }
