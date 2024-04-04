@@ -137,3 +137,7 @@ a {
   border-radius: 0.75rem;
   margin-bottom: 0.33333333rem;
 }
+
+blockquote {
+  margin: 5rem 10vw;
+}
