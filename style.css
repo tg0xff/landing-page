@@ -123,6 +123,7 @@ a {
 
 .squares > div > div {
   flex-basis: 9rem;
+  flex-shrink: 0;
 }
 
 .square {
