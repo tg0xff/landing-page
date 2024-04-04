@@ -32,14 +32,11 @@ a {
   text-decoration: none;
 }
 
-.header-hero {
-  background-color: var(--colour-3);
-}
-
 .header-root {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: var(--colour-3);
 }
 
 .header-links ul {
