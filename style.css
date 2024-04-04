@@ -30,9 +30,18 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  background-color: var(--colour-3);
 }
 
 .header-links ul {
   display: flex;
   gap: 1rem;
+}
+
+.header-links a {
+  color: var(--colour-2);
+}
+
+.logo {
+  color: var(--colour-1);
 }
