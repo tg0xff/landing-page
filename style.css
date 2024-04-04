@@ -63,6 +63,7 @@ a {
   flex-wrap: wrap;
   gap: 2rem;
   background-color: var(--colour-3);
+  font-size: var(--font-size-4);
 }
 
 .hero-content {
@@ -75,6 +76,8 @@ a {
 
 .hero-header {
   color: var(--colour-1);
+  font-size: var(--font-size-1);
+  font-weight: 900;
 }
 
 .hero-body {
@@ -84,6 +87,8 @@ a {
 .hero-root button {
   color: var(--colour-1);
   background-color: var(--colour-4);
+  font-weight: bold;
+  font-size: var(--font-size-4);
 }
 
 .hero-image {
