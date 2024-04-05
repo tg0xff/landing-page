@@ -140,11 +140,12 @@ a {
 
 .quote {
   background-color: var(--colour-2);
+  padding: 6rem 20vw;
 }
 
 blockquote {
-  margin: 5rem 10vw;
   color: var(--colour-3);
+  margin: 0;
 }
 
 blockquote p {
