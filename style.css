@@ -186,4 +186,10 @@ footer {
 
 .action button {
   font-size: var(--font-size-4);
+  font-weight: bold;
+  color: var(--colour-1);
+  background-color: var(--colour-4);
+  border: 0.18rem solid var(--colour-1);
+  border-radius: 0.4rem;
+  padding: 0.333333rem 2rem;
 }
