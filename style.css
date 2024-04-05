@@ -141,3 +141,14 @@ a {
 blockquote {
   margin: 5rem 10vw;
 }
+
+blockquote p {
+  font-size: var(--font-size-2);
+  font-style: italic;
+  font-weight: 300;
+}
+
+blockquote footer {
+  font-size: var(--font-size-3);
+  font-weight: bold;
+}
