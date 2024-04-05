@@ -181,6 +181,7 @@ footer {
 
 .action p {
   font-size: var(--font-size-4);
+  color: var(--colour-2);
 }
 
 .action button {
