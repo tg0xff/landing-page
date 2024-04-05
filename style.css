@@ -153,7 +153,8 @@ blockquote p {
   font-weight: 300;
 }
 
-blockquote footer {
+footer {
   font-size: var(--font-size-3);
   font-weight: bold;
+  text-align: right;
 }
