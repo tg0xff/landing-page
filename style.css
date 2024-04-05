@@ -174,3 +174,15 @@ footer {
   justify-content: space-between;
   align-items: center;
 }
+
+.action h1 {
+  font-size: var(--font-size-3);
+}
+
+.action p {
+  font-size: var(--font-size-4);
+}
+
+.action button {
+  font-size: var(--font-size-4);
+}
