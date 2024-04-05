@@ -159,3 +159,8 @@ footer {
   font-weight: bold;
   text-align: right;
 }
+
+.action {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
