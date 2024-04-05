@@ -164,3 +164,9 @@ footer {
   padding-top: 6rem;
   padding-bottom: 6rem;
 }
+
+.action > div {
+  color: var(--colour-1);
+  background-color: var(--colour-4);
+  border-radius: 0.5rem;
+}
