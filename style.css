@@ -138,8 +138,13 @@ a {
   margin-bottom: 0.33333333rem;
 }
 
+.quote {
+  background-color: var(--colour-2);
+}
+
 blockquote {
   margin: 5rem 10vw;
+  color: var(--colour-3);
 }
 
 blockquote p {
