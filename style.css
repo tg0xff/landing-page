@@ -169,4 +169,5 @@ footer {
   color: var(--colour-1);
   background-color: var(--colour-4);
   border-radius: 0.5rem;
+  padding: 3rem 10vw;
 }
